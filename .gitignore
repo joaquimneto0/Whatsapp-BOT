@@ -54,3 +54,6 @@ fuction/totalcmd.json
 # Local tooling files
 .deps_cache
 .shardcloud
+
+# Claude Dependencies
+.claude/
